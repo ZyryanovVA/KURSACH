@@ -1,0 +1,11 @@
+body {
+	background: white;
+}
+ul .tv-dates-list  {
+	margin: 0;
+	paddingL 4px;
+}
+ul.tv-dates-list li {
+	display: inline;
+	margin-right: 5px;
+}
